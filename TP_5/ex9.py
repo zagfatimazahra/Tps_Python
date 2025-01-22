@@ -21,5 +21,5 @@ def file_statistics(file_name):
 
 # Exécution du script
 if __name__ == "__main__":
-    file_name = "C:\\Users\\Administrator\\Desktop\\Study\\CODES\\PYTHON_TPs\\TP 5\\exemple.txt" 
+    file_name = "exemple.txt" 
     file_statistics(file_name)
